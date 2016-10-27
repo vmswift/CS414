@@ -1,9 +1,9 @@
 (defun mySum (pass)
-	(cond ((equal pass nil) 0)
+	(cond ((NULL pass) 0)
 		  (t (+ (car pass) (mySum (cdr pass))))))
 
 (defun mySize (pass)
-	(cond ((equal pass nil) 0)
+	(cond ((NULL pass) 0)
 		  (t (+ 1 (mySize (cdr pass))))))
 		
 (defun myAvg (pass)
