@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\johnk\documents\visual studio 2015\projects\interpreterproglang\interpreterproglang\main.cpp(140): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  InterpreterProgLang.vcxproj -> C:\Users\Johnk\documents\visual studio 2015\Projects\InterpreterProgLang\x64\Debug\InterpreterProgLang.exe
+  InterpreterProgLang.vcxproj -> C:\Users\Johnk\documents\visual studio 2015\Projects\InterpreterProgLang\x64\Debug\InterpreterProgLang.pdb (Full PDB)
